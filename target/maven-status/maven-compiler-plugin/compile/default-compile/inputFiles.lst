@@ -1,0 +1,5 @@
+/Users/baruchhdz/devJava/kubernetes/springboot-crud-k8s/src/main/java/com/javatechie/crud/entity/Order.java
+/Users/baruchhdz/devJava/kubernetes/springboot-crud-k8s/src/main/java/com/javatechie/crud/repository/OrderRepository.java
+/Users/baruchhdz/devJava/kubernetes/springboot-crud-k8s/src/main/java/com/javatechie/crud/SpringbootCrudK8sExampleApplication.java
+/Users/baruchhdz/devJava/kubernetes/springboot-crud-k8s/src/main/java/com/javatechie/crud/service/OrderService.java
+/Users/baruchhdz/devJava/kubernetes/springboot-crud-k8s/src/main/java/com/javatechie/crud/controller/OrderController.java
